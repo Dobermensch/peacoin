@@ -1532,9 +1532,27 @@ of the APE Foundation.</li>
           {page === "buy" &&
             (<div className="wrapper mt-sm laptop:mt-xl" style={{display: "flex", flexDirection: "column", minHeight: "100vh", fontFamily: "MD IO"}}>
               <h1 className="mx-auto max-w-xl text-center text-xl font-black uppercase laptop:text-3xl">ApeCoin (APE) is available on these exchanges.</h1>
-              <h2 className="mx-auto mt-lg max-w-xl text-center text-lg font-black uppercase laptop:text-2xl">Coming soon</h2>
+              <h2 className="mx-auto mt-lg max-w-xl text-center text-lg font-black uppercase laptop:text-2xl">
+                <Link href="https://app.uniswap.org/#/swap?chain=mainnet&inputCurrency=ETH&outputCurrency=0x3a2743567b510427F14d6b757BeD2e4946160396&slippage=15">
+                  <a target="_blank" rel="noreferrer noopener">UNISWAP</a>
+                </Link>
+                <iframe
+                  src="https://app.uniswap.org/#/swap?exactField=input&inputCurrency=ETH&outputCurrency=0x3a2743567b510427F14d6b757BeD2e4946160396"
+                  height="600px"
+                  width="350px"
+                  style={{
+                    border: 0,
+                    margin: "0 auto",
+                    marginBottom: ".5rem",
+                    display: "block",
+                    borderRadius: "10px",
+                    maxWidth: "960px",
+                    minWidth: "300px"
+                  }}
+                />
+              </h2>
               <div className="mx-auto mt-xl block max-w-sm text-center">
-                Check back here and follow our announcements on <a href="https://twitter.com/apecoin" target="_blank" rel="noreferrer" className="underline">Twitter</a> as APE gets added to more exchanges.
+                Check back here and follow our announcements on <a href="https://twitter.com/apecoin" target="_blank" rel="noreferrer nopener" className="underline">Twitter</a> as APE gets added to more exchanges.
               </div>
             </div>)
           }
