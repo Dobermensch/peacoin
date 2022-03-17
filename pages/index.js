@@ -295,12 +295,12 @@ consists of an administrative Board, which exists solely to oversee the
 decisions of the ApeCoin DAO, as well as a third party project management team
 in charge of ensuring ApeCoin DAO decisions are implemented.</p>
 <p className="mx-auto mb-sm w-full max-w-2xl text-base">A decentralized autonomous organization (DAO) is the best way to give every
-member of the community a vote on important decisions whether it's a technical
+member of the community a vote on important decisions whether it&apos;s a technical
 upgrade or a decision to fund a new idea. However, the reality is that today a
 DAO cannot sign a lease or hire people or make merch or whatever the community
 decides to do on its own. The Foundation is responsible for the day-to-day
 administration, bookkeeping, project management, and other tasks that ensure the
-ApeCoin DAO community’s ideas have the support they need to become a reality.</p>
+ApeCoin DAO community&apos;s ideas have the support they need to become a reality.</p>
 <h3 id="how-was-the-foundation-board-selected" className="mx-auto mt-lg mb-sm w-full max-w-2xl text-lg font-semibold uppercase">How was the Foundation Board selected?</h3>
 <p className="mx-auto mb-sm w-full max-w-2xl text-base">Certain members of the community that have strong operational experience were
 consulted on how to best structure the ApeCoin DAO. Several of these members
@@ -1099,15 +1099,15 @@ of the APE Foundation.</li>
             </li>
             <li className="mb-xs pl-sm">
             <p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Intercom.</strong> For more information about how Intercom uses your data for
-            customer interaction purposes, please visit <a className="border-b" href="https://www.intercom.com/legal/privacy">Intercom's Privacy Policy</a>.</p>
+            customer interaction purposes, please visit <a className="border-b" href="https://www.intercom.com/legal/privacy">Intercom&apos;s Privacy Policy</a>.</p>
             </li>
             <li className="mb-xs pl-sm">
             <p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Mixpanel.</strong> For more information about how Mixpanel uses your data for
-            customer interaction purposes, please visit <a className="border-b" href="https://mixpanel.com/legal/privacy-policy/">Mixpanel's Privacy Policy</a>.</p>
+            customer interaction purposes, please visit <a className="border-b" href="https://mixpanel.com/legal/privacy-policy/">Mixpanel&apos;s Privacy Policy</a>.</p>
             </li>
             <li className="mb-xs pl-sm">
             <p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Segment.</strong> For more information about how Segment uses your data for
-            customer interaction purposes, please visit <a className="border-b" href="https://segment.com/legal/privacy/">Segment's Privacy Policy</a>.</p>
+            customer interaction purposes, please visit <a className="border-b" href="https://segment.com/legal/privacy/">Segment&apos;s Privacy Policy</a>.</p>
             </li>
             <li className="mb-xs pl-sm">
             <p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Social Media Platforms.</strong> Our Site may contain social media buttons, such as
@@ -1198,7 +1198,7 @@ of the APE Foundation.</li>
             <ul className="mx-auto mb-md w-full max-w-2xl list-disc pl-sm">
             <li className="mb-xs pl-sm">
             <p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Automated Decision-Making.</strong> We may engage in automated decision-making,
-            including profiling. The APE Foundation's processing of your personal
+            including profiling. The APE Foundation&apos;s processing of your personal
             information will not result in a decision based solely on automated processing
             that significantly affects you unless such a decision is necessary as part of
             a contract we have with you, we have your consent, or we are permitted by law
@@ -1426,7 +1426,7 @@ of the APE Foundation.</li>
             <li className="mb-xs pl-sm">Other users or third parties you interact with</li>
             <li className="mb-xs pl-sm">Advertising partners</li>
             </ul></td></tr><tr className="border-b border-white/10"><td className="align-top py-md pr-md last:pr-0"><p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Personal information categories listed in Cal. Civ. Code § 1798.80(e)</strong></p><p className="mx-auto mb-sm w-full max-w-2xl text-base">A name, signature, Social Security number, address, telephone number, passport
-            number, driver's license or state identification card number, insurance policy
+            number, driver&apos;s license or state identification card number, insurance policy
             number, education, employment, employment history, bank account number, credit
             card number, debit card number, or any other financial information. Personal
             information does not include publicly available information that is lawfully
@@ -1448,7 +1448,7 @@ of the APE Foundation.</li>
             <li className="mb-xs pl-sm">Service providers</li>
             <li className="mb-xs pl-sm">Blockchain networks</li>
             <li className="mb-xs pl-sm">Other users or third parties you interact with</li>
-            </ul></td></tr><tr className="border-b border-white/10"><td className="align-top py-md pr-md last:pr-0"><p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Internet or other electronic network activity</strong></p><p className="mx-auto mb-sm w-full max-w-2xl text-base">Browsing history, search history, information on a consumer's interaction with
+            </ul></td></tr><tr className="border-b border-white/10"><td className="align-top py-md pr-md last:pr-0"><p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Internet or other electronic network activity</strong></p><p className="mx-auto mb-sm w-full max-w-2xl text-base">Browsing history, search history, information on a consumer&apos;s interaction with
             an Internet website, application, or advertisement.</p></td><td className="align-top py-md pr-md last:pr-0"><ul className="mx-auto mb-md w-full max-w-2xl list-disc pl-sm">
             <li className="mb-xs pl-sm">Service providers</li>
             <li className="mb-xs pl-sm">Blockchain networks</li>
@@ -1456,7 +1456,7 @@ of the APE Foundation.</li>
             <li className="mb-xs pl-sm">Advertising partners</li>
             </ul></td></tr><tr className="border-b border-white/10"><td className="align-top py-md pr-md last:pr-0"><p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Professional or employment-related information</strong></p><p className="mx-auto mb-sm w-full max-w-2xl text-base">Current or past job history or performance evaluations.</p></td><td className="align-top py-md pr-md last:pr-0"><ul className="mx-auto mb-md w-full max-w-2xl list-disc pl-sm">
             <li className="mb-xs pl-sm">Service providers</li>
-            </ul></td></tr><tr className="border-b border-white/10"><td className="align-top py-md pr-md last:pr-0"><p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Inferences drawn from other personal information to create a profile about a consumer</strong></p><p className="mx-auto mb-sm w-full max-w-2xl text-base">Profile reflecting a consumer's preferences, characteristics, psychological
+            </ul></td></tr><tr className="border-b border-white/10"><td className="align-top py-md pr-md last:pr-0"><p className="mx-auto mb-sm w-full max-w-2xl text-base"><strong>Inferences drawn from other personal information to create a profile about a consumer</strong></p><p className="mx-auto mb-sm w-full max-w-2xl text-base">Profile reflecting a consumer&apos;s preferences, characteristics, psychological
             trends, predispositions, behavior, attitudes, intelligence, abilities, and
             aptitudes.</p></td><td className="align-top py-md pr-md last:pr-0"><ul className="mx-auto mb-md w-full max-w-2xl list-disc pl-sm">
             <li className="mb-xs pl-sm">Service providers</li>
