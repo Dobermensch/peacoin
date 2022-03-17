@@ -1564,7 +1564,7 @@ of the APE Foundation.</li>
                 />
               </h2>
               <div className="mx-auto mt-xl block max-w-sm text-center">
-                Check back here and follow our announcements on <a href="https://twitter.com/apecoin" target="_blank" rel="noreferrer nopener" className="underline">Twitter</a> as APE gets added to more exchanges.
+                Check back here and follow our announcements on <a href="https://twitter.com/apecoinxyz" target="_blank" rel="noreferrer nopener" className="underline">Twitter</a> as APE gets added to more exchanges.
               </div>
             </div>)
           }
