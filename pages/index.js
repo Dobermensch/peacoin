@@ -1579,7 +1579,7 @@ of the APE Foundation.</li>
                     className="-ml-px flex items-center pr-lg"
                     target="_self"
                     rel=""
-                    href="/cdn-cgi/l/email-protection#91e2e4e1e1fee3e5d1f0e1f4f2fef8ffbff2fefc"
+                    href="https://apecoin.com/cdn-cgi/l/email-protection#91e2e4e1e1fee3e5d1f0e1f4f2fef8ffbff2fefc"
                     ><span>Support</span>
                     {/* <!-- --> */}
                   </a>
@@ -1591,7 +1591,7 @@ of the APE Foundation.</li>
                     className="-ml-px flex items-center pr-lg"
                     target="_self"
                     rel=""
-                    href="/cdn-cgi/l/email-protection#5c2c2e392f2f1c3d2c393f333532723f3331"
+                    href="https://apecoin.com/cdn-cgi/l/email-protection#5c2c2e392f2f1c3d2c393f333532723f3331"
                     ><span>Press Inquiries</span>
                     {/* <!-- --> */}
                   </a>
